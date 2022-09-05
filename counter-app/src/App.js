@@ -19,6 +19,7 @@ const App = () => {
         >
           Toggle Color
         </button>
+        <h1>Hello</h1>
       </ThemeContext.Provider>
     </React.Fragment>
   )
