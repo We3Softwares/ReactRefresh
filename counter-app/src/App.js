@@ -13,7 +13,7 @@ const App = () => {
         <button
           onClick={() =>
             setTheme((prevTheme) => {
-              return theme === 'red' ? 'blue' : 'red'
+              return theme === 'red' ? 'black' : 'red'
             })
           }
         >
